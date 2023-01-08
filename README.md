@@ -11,7 +11,7 @@
 
 
 # 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=rishabh1s&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=rishabh1S&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=rishabh1S&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabh1S&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh1S&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
