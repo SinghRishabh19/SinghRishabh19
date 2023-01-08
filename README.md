@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I am Final Year Computer Science And Engineering Student.<br>⭐Shoot me an email or connect with me on LinkedIn :)
+😎I am Final Year Computer Science And Engineering Student.<br>⭐Shoot me an email at rishabh15112001@gmail.com or connect with me on LinkedIn :) 
 
 
 ## 🌐 Socials:
