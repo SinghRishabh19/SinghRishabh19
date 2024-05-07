@@ -2,7 +2,7 @@
 - 🚀 Computer Science Engineering grad 🎓
 - 🌐 Passionate about Fullstack Development 💻
 - 🤝 Open to collaboration opportunities 🤖
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently learning GoLang 👽
 - 💡 Ask me about anything tech-related! 🧠
 - 🎉 Fun Fact: I can play chess blindfolded! ♟️
  
